@@ -2,9 +2,6 @@ script_name("Hotel Helper")
 script_author("James Hawk")
 script_version("001")
 
-require "lib.moonloader"
-require "sampfuncs"
-local sampev = require "lib.samp.events"
 local state = true
 
 local data = {
